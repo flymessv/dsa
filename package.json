@@ -1,0 +1,22 @@
+{
+  "name": "Anna",
+  "version": "0.0.2",
+  "repository": "https://github.com/flymessv/esuraz",
+  "description": "Bot Anna by @zuvs",
+  "main": "anna.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Mihail Bezmolenko",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.3",
+    "asynckit": "^0.4.0",
+    "fs": "0.0.1-security",
+    "process-env": "^2.0.2",
+    "vk-io": "4.0.0-rc.8"
+  },
+  "engines": {
+    "node": "12.13.1"
+  }
+}
